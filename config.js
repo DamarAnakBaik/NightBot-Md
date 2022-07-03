@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6282331243615'] 
+global.owner = ['6285896677508'] 
 global.mods = [] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Nando'
-global.numberowner = '6282331243615'
-global.instagram = 'https://instagram.com/heroasta'
-global.github = 'https://github.com/NandoBendungan'
-global.dana = '082331243615'
-global.pulsa = '082331243615'
+global.nameowner = 'DamarKeche'
+global.numberowner = '6285896677508'
+global.instagram = 'https://instagram.com/Damar Was'
+global.github = 'https://github.com/DamarAnakBaik'
+global.dana = '0887437035456'
+global.pulsa = '0887437035456'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
 global.namebot = 'NightBotMD'
 global.gc = 'https://chat.whatsapp.com/Jsjsceb3HiaAcxtt7atqN1'
-global.web = 'https://youtube.com/c/OMTOSLURR' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://youtube.com/c/DAMAR YT' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
